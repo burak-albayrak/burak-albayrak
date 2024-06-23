@@ -4,7 +4,7 @@
 
 <p>&nbsp;</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-albayrak&show_icons=true&locale=en&layout=compact" width = "350" alt="burak-albayrak"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-albayrak&" alt="burak-albayrak"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-albayrak&show_icons=true&locale=en&layout=compact" width = "320" alt="burak-albayrak"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-albayrak&" width = "440" alt="burak-albayrak"/></p>
 
 <p>&nbsp;</p>
 
