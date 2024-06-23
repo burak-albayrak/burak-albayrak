@@ -22,3 +22,5 @@
 <p align="center">
   👨‍💻 Check my portfolio: <a href="https://burrk-portfolio.web.app">https://burrk-portfolio.web.app</a>
 </p>
+
+![snake gif](https://github.com/burak-albayrak/burak-albayrak/blob/output/github-contribution-grid-snake.gif)
