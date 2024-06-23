@@ -12,4 +12,4 @@
 <p><p/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burak-albayrak&" alt="burak-albayrak" /></p>
 
-👨‍💻 All of my projects are available at [https://burrk-portfolio.web.app](https://burrk-portfolio.web.app)
+👨‍💻 Check my portfolio: [https://burrk-portfolio.web.app](https://burrk-portfolio.web.app)
