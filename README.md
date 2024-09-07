@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/ahmet-burak-albayrak-8b5b44230" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet-burak-albayrak-8b5b44230" height="30" width="40" />
   </a>
-  I'm a passionate Software Engineering student from Turkey
+  I'm a Software Engineering student from Turkey
   <a href="https://www.leetcode.com/burak-albayrak" target="blank">
     <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="burak-albayrak" height="30" width="40" />
   </a>
