@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=burak-albayrak&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=burak-albayrak&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats">
   </a>
 </p>
 <p>&nbsp;</p>
