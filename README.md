@@ -7,15 +7,22 @@
   I'm a Software Engineering student at Çankaya University
   <a href="https://www.leetcode.com/burak-albayrak" target="blank">
     <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="burak-albayrak" height="30" width="40" />
+  
   </a>
+  
 </h2>
+
 
 <p>&nbsp;</p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-albayrak&show_icons=true&locale=en&layout=compact" width="320" alt="burak-albayrak" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-albayrak&show_icons=true&locale=en&layout=compact" width="350" alt="burak-albayrak" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=burak-albayrak&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats">
+  </a>
+</p>
 <p>&nbsp;</p>
 
 <p align="center">
